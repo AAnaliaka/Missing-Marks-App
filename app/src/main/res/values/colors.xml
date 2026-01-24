@@ -5,4 +5,6 @@
     <color name="background_color">#19B5FE</color>
     <color name="button_light_green">#F1F8E9</color>
     <color name="button_text_blue">#19B5FE</color>
+    <color name="sky_blue">#22B7F8</color>
+    <color name="gray_text">#9E9E9E</color>
 </resources>
