@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MISSINGAPP">
         <activity
+            android:name=".Welcomebackpage"
+            android:exported="false" />
+        <activity
+            android:name=".Verificatinpage"
+            android:exported="false" />
+        <activity
+            android:name=".Resetpasswordpage"
+            android:exported="false" />
+        <activity
             android:name=".Signuppage"
             android:exported="false" />
         <activity
