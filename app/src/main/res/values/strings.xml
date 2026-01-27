@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MISSING APP</string>
-    <string name="mmustlogo">mmustlogo</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_courses">Courses</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_profile">Profile</string>
 </resources>
