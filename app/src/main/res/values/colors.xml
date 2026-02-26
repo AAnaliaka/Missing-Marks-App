@@ -7,4 +7,6 @@
     <color name="button_text_blue">#19B5FE</color>
     <color name="sky_blue">#22B7F8</color>
     <color name="gray_text">#9E9E9E</color>
+    <color name="settings_background">#F5F5F5</color>
+    <color name="red">#FF0000</color>
 </resources>
