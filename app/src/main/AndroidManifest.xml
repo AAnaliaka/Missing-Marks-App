@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MISSINGAPP">
         <activity
+            android:name=".Lecturerhomepage"
+            android:exported="false" />
+        <activity
             android:name=".Settingspage"
             android:exported="false" />
         <activity

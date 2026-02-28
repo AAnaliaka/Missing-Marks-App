@@ -678,19 +678,20 @@
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
+            <com.google.android.material.bottomnavigation.BottomNavigationView
+                android:id="@+id/bottomNavigation"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginBottom="32dp"
+                android:background="@color/white"
+                app:itemIconTint="#3F51B5"
+                app:itemTextColor="#3F51B5"
+                app:labelVisibilityMode="labeled"
+                app:menu="@menu/bottom_nav_menu" />
+
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
 
     <!-- Fixed Bottom Navigation -->
-    <com.google.android.material.bottomnavigation.BottomNavigationView
-        android:id="@+id/bottomNavigation"
-        android:layout_width="match_parent"
-        android:layout_height="70dp"
-        android:background="@color/white"
-        app:itemIconTint="#3F51B5"
-        app:itemTextColor="#3F51B5"
-        app:labelVisibilityMode="labeled"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:menu="@menu/bottom_nav_menu" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
